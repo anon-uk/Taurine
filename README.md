@@ -3,7 +3,7 @@
 Aggressive memory, battery and performance defaults for Chromium on macOS.
 
 **Phase 1 (this repo now):** a configuration profile of Chromium enterprise policies plus an A/B benchmark. Nothing to compile. Works with Chromium (`org.chromium.Chromium`) and Google Chrome (`com.google.Chrome`).
-**Phase 2 (later):** a patch set and custom build, but only for wins that policies can't reach, and only once benchmarks show they're worth the cost.
+**Phase 2 (later):** a patch set and custom build. Full roadmap: [docs/PLAN.md](docs/PLAN.md).
 
 ## Use it
 
