@@ -1,0 +1,15 @@
+{
+  "HighEfficiencyModeEnabled": true,
+  "MemorySaverModeSavings": 2,
+  "BackgroundTabFreezingEnabled": true,
+  "IntensiveWakeUpThrottlingEnabled": true,
+  "BatterySaverModeAvailability": 1,
+  "NetworkPredictionOptions": 2,
+  "GenAILocalFoundationalModelSettings": 1,
+  "HardwareAccelerationModeEnabled": true,
+  "MetricsReportingEnabled": false,
+  "UrlKeyedAnonymizedDataCollectionEnabled": false,
+  "SpellCheckServiceEnabled": false,
+  "ShoppingListEnabled": false,
+  "PromotionsEnabled": false
+}
